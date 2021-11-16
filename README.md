@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning digital forensic
 
-- 📫 How to reach me ... ph-srinibasrout10.sr@gmail.com
+- 📫 How to reach me - srinibasrout10.sr@gmail.com
 
 <!---
 srinibasch/srinibasch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
