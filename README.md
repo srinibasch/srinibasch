@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <a href="https://chinmayakumarbiswal.in/">Chinmaya Kumar Biswal </a>👋</h1>
+<h1>Hi there, I'm <a href="https://www.linkedin.com/in/srinibasrout">Srinibas Rout </a>👋</h1>
 
 
 - 👋 Hi, I’m @srinibasch
