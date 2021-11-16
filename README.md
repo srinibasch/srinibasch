@@ -1,3 +1,6 @@
+<h1>Hi there, I'm <a href="https://chinmayakumarbiswal.in/">Chinmaya Kumar Biswal </a>👋</h1>
+
+
 - 👋 Hi, I’m @srinibasch
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning digital forensic
@@ -24,4 +27,3 @@
 srinibasch/srinibasch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srinibasch/&layout=compact&theme=buefy" />
