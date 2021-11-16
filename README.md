@@ -24,4 +24,4 @@
 srinibasch/srinibasch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmayakumarbiswal&layout=compact&theme=buefy" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srinibasch/&layout=compact&theme=buefy" />
